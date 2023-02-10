@@ -1,0 +1,22 @@
+h1 { 
+    border-block-end-style:none ;
+    font-style: oblique;
+    color:#BFACE2;
+    display: flex;
+    justify-content: center;
+ }
+
+.centro{
+    display: flex;
+    justify-content: center;
+}
+ 
+.tarefa-selecionada { 
+    color:dimgray; 
+    font-style: italic; 
+}
+
+
+body{
+    background-image: url(https://img.freepik.com/vetores-gratis/aquarela-fundo-listrado-roxo-e-branco_23-2149397220.jpg?w=2000);
+}
